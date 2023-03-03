@@ -1,4 +1,5 @@
-﻿Console.WriteLine("This program shows the prime numbers between 2 variables");
+// Parsa Ebrahimi - shamsipoor
+Console.WriteLine("This program shows the prime numbers between 2 variables");
 Console.WriteLine("Please enter your first number");
 int x = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Please enter your second number");
