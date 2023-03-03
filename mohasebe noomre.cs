@@ -1,4 +1,5 @@
-﻿using System.Numerics;
+// Parsa Ebrahimi - shamsipoor
+using System.Numerics;
 
 int x;
 Console.WriteLine("Enter the score");
